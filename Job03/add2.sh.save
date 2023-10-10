@@ -1,0 +1,11 @@
+#!/bin/bash
+
+n$
+
+
+# Addition deux nombres
+sum=$(( num1 + num2 ))
+
+# Affichage du résultat
+echo "Result : $sum"
+fi
